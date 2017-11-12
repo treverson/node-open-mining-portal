@@ -1,0 +1,9 @@
+{
+    "name": "Searchcoin",
+    "symbol": "SSC",
+    "algorithm": "scrypt",
+    "peerMagic": "53454152",
+    "peerMagicTestnet": "73656172",
+    "addTimeStamp": true,
+    "reward": "POW"
+}
